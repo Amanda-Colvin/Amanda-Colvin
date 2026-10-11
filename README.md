@@ -38,6 +38,6 @@ My current university modules are:
 
 I'm still fairly new to GitHub, so I'm learning my way around it!
 
-I'm hoping to use this space to share projects, practise what I'm learning and keep track of my progress throughout university.
+I'm hoping to use this space to share projects, practice what I'm learning and keep track of my progress throughout university.
 
 I'm sure there'll be plenty of trial and error along the way, but that's all part of it!
